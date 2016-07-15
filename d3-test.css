@@ -1,0 +1,23 @@
+.tt-tuningbar-container {
+  -webkit-user-select:none;
+}
+.chartText {
+    fill: #fff;
+    font: normal 14px arial;
+    text-anchor: middle;
+    letter-spacing: 4px;
+    cursor: pointer;
+}
+.inner-circle circle {
+    fill: #189;
+    stroke: #fff;
+    stroke-width: 5;
+}
+.inner-circle-txt {
+    fill: #fff;
+    font: normal 14px arial;
+    text-anchor: middle;
+}
+.tuning-menu {
+    cursor: pointer;
+}
