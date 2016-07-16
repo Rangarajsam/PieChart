@@ -21,3 +21,14 @@
 .tuning-menu {
     cursor: pointer;
 }
+.button {
+    padding: 0 10px;
+    background: #cc0000;
+    color: #fff;
+    float: left;
+    font: normal 12px/30px arial;
+    cursor: pointer;
+}
+.clear {
+    clear: both;
+}

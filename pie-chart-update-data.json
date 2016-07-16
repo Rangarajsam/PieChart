@@ -1,0 +1,32 @@
+{
+  "tuningBar":  [
+      {
+        "color": "#ba58c8",
+        "mouseOverColor": "#750086",
+        "percentage": 25,
+        "text": "Rangaraj",
+        "xOffset": 70,
+        "url":"google.com"
+    }, {
+        "color": "#118799",
+        "mouseOverColor": "#004853",
+        "percentage": 25,
+        "text": "Shanmugam",
+        "xOffset": 70,
+        "url":"yahoo.com"
+    }, {
+        "color": "#e76443",
+        "mouseOverColor": "#941f01",
+        "percentage": 25,
+        "text": "Sakiladevi",
+        "xOffset": 70,
+        "url":"github.com"
+    }, {
+        "color": "#819f39",
+        "mouseOverColor": "#466300",
+        "percentage": 25,
+        "text": "Sakthipriya",
+        "xOffset": 70,
+        "url":"india.com"
+    }]
+}
